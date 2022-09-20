@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://pwolter.github.io/test_nbdev"
+  description: "NBDev test repo"
+  repo-branch: main
+  repo-url: "https://github.com/pwolter/test_nbdev"
